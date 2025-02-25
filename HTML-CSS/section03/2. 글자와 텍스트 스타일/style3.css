@@ -1,0 +1,10 @@
+p {
+  text-decoration: none;
+
+  /* capitalize, uppercase, lowercase */
+  text-transform: capitalize;
+}
+
+em {
+  text-transform: uppercase;
+}
